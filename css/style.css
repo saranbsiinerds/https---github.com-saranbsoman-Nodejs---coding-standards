@@ -1,0 +1,14 @@
+body {
+    background-color:lightslategrey;
+}
+h1 {
+    color: aliceblue;
+}
+h1:hover {
+    color: yellow;
+    stroke: black;
+}
+p {
+    font: 1em sans-serif;
+    color: rgb(6, 0, 87);
+}
